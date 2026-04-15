@@ -14,7 +14,7 @@ Este repositório é dedicado EXCLUSIVAMENTE à documentação de falhas de lóg
 
  ⚠️ Escopo da Gravidade
  
-Diferente das automações de fluxo padrão, esta suíte foca na **Validação de Regras de Negócio Críticas** que foram negligenciadas, resultando em 12 pontos de falha comprovados para exemplo (num total de 113 falhas reais).
+Diferente das automações de fluxo padrão, esta suíte foca na **Validação de Regras de Negócio e Requisitos Críticas** que foram negligenciadas, resultando em 12 pontos de falha comprovados para exemplo (num total de 113 falhas reais).
 
 Pilares da Auditoria / Análise Técnica (12 Cenários para exemplo de Alta Criticidade)
 A suíte está estruturada para expor e documentar falhas nas seguintes frentes:

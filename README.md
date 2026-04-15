@@ -34,7 +34,8 @@ Estabilidade de Lógica de Interface: Monitoramento de corrupção de dados via 
 4.  **UX & Interface:** Corrupção de cores (Toggle) e eixos de gráfico negativos.
 5.  **Performance:** Latência de 5s em notificações de emergência.
 
- Diferencial Técnico: Automação de Defeitos é o oposto do "Caminho Feliz", estes scripts são calibrados para identificar "Logic Mismatches". Se um teste nesta pasta falha (Red Status), ele não indica erro no script de automação, mas sim uma Falha de Consistência na Arquitetura e no Desenvolvimento  do Software analisado."A qualidade não é apenas garantir que o código rode, mas assegurar que a lógica que o sustenta seja fiel à realidade e à segurança da operação." — Energy Or um produto Lux by Or de Luciana Orli.
+ Diferencial Técnico: Automação de Defeitos é o oposto do "Caminho Feliz", estes scripts são calibrados para identificar "Logic Mismatches". Se um teste nesta pasta falha (Red Status), ele não indica erro no script de automação, mas sim uma Falha de Consistência na Arquitetura e no Desenvolvimento  do Software analisado.
+ "A qualidade não é apenas garantir que o código rode, mas assegurar que a lógica que o sustenta seja fiel à realidade e à segurança da operação." — Energy Or um produto Lux by Or 💎 de Luciana Orli.
 
  📊 Relatório de Evidências
  
@@ -46,7 +47,7 @@ Bash
 pytest test_logic_integrity.py --html=reports/dossie_evidencias_lux_climate.html --self-contained-html
 
 
-O relatório com as 12 falhas críticas pode ser visualizado aqui:
+🚀 O relatório com as 12 falhas críticas pode ser visualizado aqui:
 * [Visualizar Relatório de Integridade (HTML)](./reports/dossie_evidencias_lux_climate.html)
 
  **Nota:** Para visualizar o arquivo formatado diretamente no navegador, baixe o arquivo ou utilize um renderizador de HTML do GitHub.

@@ -1,4 +1,4 @@
- 🛡️ Dossiê de Integridade / Energy Or: Edge Case Integrity Suite
+ 🛡️ Dossiê de Integridade / Edge Case Integrity Suite
   
  Desenvolvi a suíte 'Edge Case Integrity' para a Energy Or, focada em detectar violações de lógica arquitetural em sistemas de monitoramento térmico de alta complexidade (Lux-Climate).
 

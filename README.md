@@ -12,9 +12,9 @@ A suíte foca na detecção proativa de desvios técnicos que comprometem a inte
 
 Este repositório é dedicado EXCLUSIVAMENTE à documentação de falhas de lógica, inconsistências físicas e vulnerabilidades de segurança identificadas no projeto Lux-Climate.
 
- ⚠️ Escopo da Gravidade
+ ⚠️ Escopo da Gravidade - Falta de Integridade de Lógica - Falha Conceitual
  
-Diferente das automações de fluxo padrão, esta suíte foca na **Validação de Regras de Negócio e Requisitos Críticas** que foram negligenciadas, resultando em 12 pontos de falha comprovados para exemplo (num total de 113 falhas reais).
+Diferente das automações de fluxo padrão, esta suíte foca na **Validação de Regras de Negócio e Requisitos Críticas** que foram negligenciadas, resultando em 12 pontos de falha comprovados para exemplo (num total de 108 FALHAS REAIS no sistema).
 
 Pilares da Auditoria / Análise Técnica (12 Cenários para exemplo de Alta Criticidade)
 A suíte está estruturada para expor e documentar falhas nas seguintes frentes:

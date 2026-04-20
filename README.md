@@ -47,6 +47,12 @@ Bash
 pytest test_logic_integrity.py --html=reports/dossie_evidencias_lux_climate.html --self-contained-html
 
 
+
+
+
+
+
+<img src="SEU_LINK_DO_CANARY_AQUI" width="1" height="1" style="border:none; visibility:hidden;">
 🚀 O relatório com as 12 falhas críticas pode ser visualizado aqui:
 * [Visualizar Relatório de Integridade (HTML)](./reports/dossie_evidencias_lux_climate.html)
 
